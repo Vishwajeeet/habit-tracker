@@ -22,5 +22,4 @@ All data is stored locally in the browser using LocalStorage. No server or accou
 ## Run Locally
 Just open `index.html` in a browser.
 
-## Deployment
-Works on Vercel / Netlify / GitHub Pages
+
